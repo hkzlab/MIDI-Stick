@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The MIDI-Stick is a small MIDI Synth based on the SAM2695 chip that you can plug directly in the joystick port of your sound card.
+The MIDI-Stick is a small General MIDI Synth based on the SAM2695 chip that you can plug directly in the joystick port of your sound card.
 
 It produces a line-out signal that you can feed to the line-in of your sound card or use with an external amplifier or headphones!
 

@@ -19,7 +19,7 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 | Component         | Qty | Type / Value        | Mouser code           |
 | ----------------- | --- | ------------------- | --------------------- |
 | C1,C6             | 2   | 1uF / 0805          | [710-885012207022](https://www.mouser.it/ProductDetail/710-885012207022) |
-| C2                | 1   | 10nF / 0805         | [https://www.mouser.it/ProductDetail/710-885382207006](https://www.mouser.it/ProductDetail/710-885382207006) |
+| C2                | 1   | 10nF / 0805         | [710-885382207006](https://www.mouser.it/ProductDetail/710-885382207006) |
 | C3,C7             | 2   | 4.7uF / 0805        | [187-CL21A475KPFNNNG](https://www.mouser.it/ProductDetail/187-CL21A475KPFNNNG) |
 | C4,C5             | 2   | 22pF / 0805         | [710-885012007053](https://www.mouser.it/ProductDetail/710-885012007053) |
 | C8,C9,C10,C15,C17 | 5   | 100nF / 0805        | [710-885012207072](https://www.mouser.it/ProductDetail/710-885012207072) |

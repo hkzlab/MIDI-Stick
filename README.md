@@ -33,7 +33,7 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 | R3,R4             | 2   | 47k / 0805          | [652-CR0805FX-4702ELF](https://www.mouser.it/ProductDetail/652-CR0805FX-4702ELF) |
 | R5                | 1   | 1k / 0805           | [71-CRCW08051K00JNEAC](https://www.mouser.it/ProductDetail/71-CRCW08051K00JNEAC) |
 | F1                | 1   | SMD Fuse            | [652-SF-1206HI050M-2](https://www.mouser.it/ProductDetail/652-SF-1206HI050M-2) |
-| J1                | 1   | DB15 Male           | [806-K22X-A15SN](https://www.mouser.it/ProductDetail/806-K22X-A15SN) |
+| J1                | 1   | DB15 Male           | [806-K22X-A15SN](https://www.mouser.it/ProductDetail/806-K22X-A15SN) or JX0DR15P102M for printable case |
 | P1                | 1   | Stereo audio jack   | [806-STX-3100-3CB](https://www.mouser.it/ProductDetail/806-STX-3100-3CB) |
 | Y1                | 1   | 12Mhz / HC49        | [449-LFXTAL035293REEL](https://www.mouser.it/ProductDetail/449-LFXTAL035293REEL) |
 | U1                | 1   | LP2085-3.3          | [926-LP2985IM5X33NOPB](https://www.mouser.it/ProductDetail/926-LP2985IM5X33NOPB) |
@@ -42,5 +42,5 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 
 ## Credits
 
-Thanks to [Sergey Kiselev](https://github.com/skiselev) for his symbol/footprint library!
-
+- Thanks to [Sergey Kiselev](https://github.com/skiselev) for his symbol/footprint library!
+- Thanks to [@A-Small-Mice](https://github.com/A-Small-Mice) for the printable case
